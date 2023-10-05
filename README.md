@@ -11,7 +11,10 @@
 
 4 chmod 771 tracker
 
-5 ./tracker![Screenshot_۲۰۲۳۱۰۰۵_۲۰۵۷۳۰_Chrome](https://github.com/MRAvarvokiranshare/Ip_Hack/assets/146922434/07e341f8-d05e-4697-93f4-bfb48a094c80)
+5 ./tracker
+و حلا ip قربانی رو وارید کنی به عنوان مثال i5.249.182.22
+
+![Screenshot_۲۰۲۳۱۰۰۵_۲۰۵۷۳۰_Chrome](https://github.com/MRAvarvokiranshare/Ip_Hack/assets/146922434/07e341f8-d05e-4697-93f4-bfb48a094c80)
 ![Screenshot_۲۰۲۳۱۰۰۵_۲۰۵۵۴۳_Termux](https://github.com/MRAvarvokiranshare/Ip_Hack/assets/146922434/f79690f8-a7b3-4e68-90f1-fa41caddb551)
 
 
